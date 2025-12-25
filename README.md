@@ -15,7 +15,7 @@ the NVIDIA `NvContainerLocalSystem` service.
 
 ## How to Use
 
-1. Download `FixBrightness.exe` from the Releases page
+1. Download `FixBrightness.exe` and `Restart.bat` from the Releases page
 2. Run the application (administrator permission required)
 3. Click "Fix Brightness" or use the tray icon
 
