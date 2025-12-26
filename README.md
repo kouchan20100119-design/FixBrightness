@@ -54,3 +54,4 @@ Use this tool at your own risk.
 This is an unofficial utility and is not affiliated
 with ASUS, NVIDIA, or G-Helper.
 
+⭐ If this tool helped you, please consider starring the repository!
